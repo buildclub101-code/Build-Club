@@ -25,3 +25,6 @@ This Repo is currently an early work in progress. But for now we'll just check i
   - Control Theory Subreddit - https://www.reddit.com/r/ControlTheory/
   - Control Theory Subrredit Wiki - https://www.reddit.com/r/ControlTheory/wiki/index/
   - Self Balancing Robot Project - https://projecthub.arduino.cc/mircemk/arduino-two-weel-self-balancing-robot-edef61
+  - Youtube - Brian Douglas: https://www.youtube.com/user/ControlLectures
+  - Control Systems Academy: https://controlsystemsacademy.com/
+  - 
