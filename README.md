@@ -13,3 +13,5 @@ This Repo is currently an early work in progress. But for now we'll just check i
 # Control Theory/Systems:
   - Univeristy of Michigan, USA - Control Systems Tutorials with MATLAB/Simulink: https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
   - University of Sheffield, United Kingdom - Modelling, Dynamics and Control: https://controleducation.sites.sheffield.ac.uk/
+  - Control Theory Subreddit - https://www.reddit.com/r/ControlTheory/
+  - Control Theory Subrredit Wiki - https://www.reddit.com/r/ControlTheory/wiki/index/
