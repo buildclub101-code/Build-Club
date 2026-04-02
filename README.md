@@ -9,7 +9,7 @@ Free Magazines/Ebooks (PDF):
 - Elektor Magazine: https://www.elektormagazine.com/labs/elektormag-bonus-editions-download-the-free-digital-magazines
 - Electronics Magazine (Electronicsmaker - More into industry trends than projects): https://electronicsmaker.com/magazine
 - The Art of Electronics, 3rd Edition, 2015: https://kolegite.com/EE_library/books_and_lectures/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/_The%20Art%20of%20Electronics%203rd%20ed%20%5B2015%5D.pdf
-- Open Circuits. The Inner Beuty of Electronics: https://caxapa.ru/lib/files/Eric_Schlaepfer_Windell_H._Oskay_-_Open_Circuits._The_Inner_Beauty_of_Electronic.pdf
+- Open Circuits. The Inner Beauty of Electronics: https://caxapa.ru/lib/files/Eric_Schlaepfer_Windell_H._Oskay_-_Open_Circuits._The_Inner_Beauty_of_Electronic.pdf
 
 Other Site Links:
 - Embedded Systems Roadmap (Github link to other resources): https://github.com/m3y54m/Embedded-Engineering-Roadmap
