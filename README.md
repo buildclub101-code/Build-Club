@@ -17,6 +17,7 @@ Other Site Links:
 - Deepblue Embedded (PCB Design, Emebedded Systems, Electronics, etc.): https://deepbluembedded.com/
 - Random Nerd Tutorials: https://randomnerdtutorials.com/
 - Arduino Project Hub: https://projecthub.arduino.cc/
+- ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
 - Free Tools for Electrical and Electronics Engineers: https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
 
 Youtube Channels:
