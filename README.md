@@ -3,17 +3,7 @@ Hello everyone! This is the new Github Repository which will have links to vario
 
 This Repo is currently an early work in progress. But for now we'll just check if everything in this readme file works by adding these links to various resources in no particular order
 
-# Mixed Project Designs/Inspirations (Varied Difficulty):
-
-- Max Imagination (YT): https://www.youtube.com/@MaxImagination
-- PLACITECH (YT): https://youtube.com/@placitech?si=kj6R73bVxGABdE4s
-- DIY Perks (YT): https://youtube.com/@diyperks?si=ZHvxYsyfSE55GOvT
-- Electronoobs (YT): https://youtube.com/@electronoobs?si=1xI8wCDHFrH2X3Cb
-- GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
-
-
-
-# General Electronics:
+# General Electronics (and Resources!):
 
 Free Magazines/Ebooks (PDF):
 - Elektor Magazine: https://www.elektormagazine.com/labs/elektormag-bonus-editions-download-the-free-digital-magazines
@@ -27,9 +17,26 @@ Other Site Links:
 - Deepblue Embedded (PCB Design, Emebedded Systems, Electronics, etc.): https://deepbluembedded.com/
 - Random Nerd Tutorials: https://randomnerdtutorials.com/
 - Arduino Project Hub: https://projecthub.arduino.cc/
-- HackMakeMod (YT): https://youtube.com/@hackmakemod?si=4ryUx8HAqGWATcwi
-- 
 
+Youtube Channels:
+- HackMakeMod (YT): https://youtube.com/@hackmakemod?si=4ryUx8HAqGWATcwi
+- Adafruit (YT): https://youtube.com/@adafruit?si=HadPToTAkt0oF1tT
+- DigiKey (YT): https://www.youtube.com/@digikey
+- EEVBlog (YT): UC2DjFE7Xf11URZqWBigcVOQ
+
+In Case Soldering Lessons are needed:
+- Soldering subreddit: https://www.reddit.com/r/soldering/
+- PACE Soldering Tutorials: https://youtube.com/playlist?list=PL926EC0F1F93C1837&si=TGTzb4Q2lrccIQPU
+
+
+Mixed Domain Project Designs/Inspirations (Varied Difficulty):
+
+- Max Imagination (YT): https://www.youtube.com/@MaxImagination
+- PLACITECH (YT): https://youtube.com/@placitech?si=kj6R73bVxGABdE4s
+- DIY Perks (YT): https://youtube.com/@diyperks?si=ZHvxYsyfSE55GOvT
+- Electronoobs (YT): https://youtube.com/@electronoobs?si=1xI8wCDHFrH2X3Cb
+- GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
+- Predictable Designs (YT): https://youtube.com/@predictabledesigns?si=wO3K30c7_Ez05EZK
   
 # Control Theory/Systems:
   - Univeristy of Michigan, USA - Control Systems Tutorials with MATLAB/Simulink: https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
@@ -53,6 +60,7 @@ Resources:
 - Altium Academy (YT): https://www.youtube.com/@AltiumAcademy
 - Made by Morten (YT): https://youtube.com/@made.by.morten.laboratories?si=frbskkmTYtrkrsMd
 - Robert Feranec (YT): https://www.youtube.com/@RobertFeranec
+- Electronicsforyou: https://www.electronicsforu.com/tag/pcb-design
 
 Projects:
 - All about Circuits: https://www.allaboutcircuits.com/projects/category/pcb/
@@ -63,4 +71,21 @@ Projects:
 # Robotics:
 
 - Makers Muse (YT): https://youtube.com/@makersmuse?si=T-7tTpXe1vFmNAdD
-- 
+- Robotics Subreddit: https://www.reddit.com/r/robotics/
+- Robotics Subreddit Wiki: https://www.reddit.com/r/robotics/wiki/index/
+
+# IoT - Internet of Things:
+
+- Garage Tinkering (YT for Automotive IoT): https://youtube.com/@garagetinkering?si=wdGVYQdUs5sFJHc7
+
+# Communications
+
+# Power Electronics
+
+# Mechanics
+
+# Software Builds
+
+# CAD - Computer Aided Design
+
+- SourceCAD (YT): https://youtube.com/@sourcecad?si=3y2XVDSan-JMaMYr
