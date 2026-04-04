@@ -97,6 +97,7 @@ Projects:
 # IoT - Internet of Things:
 
 - Garage Tinkering (YT for Automotive IoT): https://youtube.com/@garagetinkering?si=wdGVYQdUs5sFJHc7
+- 100 days of 100 IoT Projects: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 
 # Communications:
 
