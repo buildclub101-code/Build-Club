@@ -88,6 +88,7 @@ Projects:
 
 # Communications:
 
+Resources:
 - The Signal Path (YT): https://youtube.com/@thesignalpath?si=_2N0BI26KZdi-kTr
 - Baltic Lab (YT): https://youtube.com/@balticlab?si=uy3VGqpvbPh2q_6K
 
