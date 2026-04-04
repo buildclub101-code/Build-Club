@@ -18,6 +18,14 @@ Other Site Links:
 - Random Nerd Tutorials: https://randomnerdtutorials.com/
 - Arduino Project Hub: https://projecthub.arduino.cc/
 - ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
+
+Software/Web Tools:
+
+- Digikey web tools: https://www.digikey.in/en
+  Access these tools by visiting the website, hover over the "resources tab", and choose which web tools do you need.
+  There are multiple options from different calculators, EDA tools, PCB Building and Cross referencing components.
+  
+- Texas Instruments, Design & Simulation Tools: https://www.ti.com/design-development/design-simulation-tools.html
 - Free Tools for Electrical and Electronics Engineers: https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
 
 Youtube Channels:
