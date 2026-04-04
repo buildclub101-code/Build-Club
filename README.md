@@ -29,6 +29,9 @@ Youtube Channels:
 In Case Soldering Lessons are needed:
 - Soldering subreddit: https://www.reddit.com/r/soldering/
 - PACE Soldering Tutorials: https://youtube.com/playlist?list=PL926EC0F1F93C1837&si=TGTzb4Q2lrccIQPU
+- HackMakeMod (YT) - How to Solder: https://youtu.be/3jAw41LRBxU?si=erWmSYACwZ8TPNiE
+- SMD/Surface Mounted Devices Soldering Tutorial (Electronoobs, YT): https://youtu.be/fYInlAmPnGo?si=AetXhj2kcdZtwXnO
+- THT and SMD Soldering tutorial (GreatScott, YT): https://www.youtube.com/watch?v=VxMV6wGS3NY
 
 
 Mixed Domain Project Designs/Inspirations (Varied Difficulty):
