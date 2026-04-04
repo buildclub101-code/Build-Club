@@ -71,21 +71,28 @@ Projects:
 # Robotics:
 
 - Makers Muse (YT): https://youtube.com/@makersmuse?si=T-7tTpXe1vFmNAdD
+- Koshiro Robot Creator (YT): https://www.youtube.com/@Koshiro_Robot_Creator/videos
+- Ball Balancing Robot Github: https://github.com/KoshiroRobot/Ball-Balancing-Robot
 - Robotics Subreddit: https://www.reddit.com/r/robotics/
 - Robotics Subreddit Wiki: https://www.reddit.com/r/robotics/wiki/index/
+- Tech with Anant (AI and Robotics - YT): https://www.youtube.com/@techwithanant-yt/videos
 
 # IoT - Internet of Things:
 
 - Garage Tinkering (YT for Automotive IoT): https://youtube.com/@garagetinkering?si=wdGVYQdUs5sFJHc7
 
-# Communications
+# Communications:
 
-# Power Electronics
+Projects:
+- 433MHz Signal Detector: https://www.electronicsforu.com/electronics-projects/433-mhz-rf-signal-strength-detector
+- IR Audio Communication: https://www.electronicsforu.com/electronics-projects/ir-audio-communication
+- 
+# Power Electronics:
 
-# Mechanics
+# Mechanics:
 
-# Software Builds
+# Software Builds:
 
-# CAD - Computer Aided Design
+# CAD - Computer Aided Design:
 
 - SourceCAD (YT): https://youtube.com/@sourcecad?si=3y2XVDSan-JMaMYr
