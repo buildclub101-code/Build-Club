@@ -3,6 +3,16 @@ Hello everyone! This is the new Github Repository which will have links to vario
 
 This Repo is currently an early work in progress. But for now we'll just check if everything in this readme file works by adding these links to various resources in no particular order
 
+# Mixed Project Designs/Inspirations (Varied Difficulty):
+
+- Max Imagination (YT): https://www.youtube.com/@MaxImagination
+- PLACITECH (YT): https://youtube.com/@placitech?si=kj6R73bVxGABdE4s
+- DIY Perks (YT): https://youtube.com/@diyperks?si=ZHvxYsyfSE55GOvT
+- Electronoobs (YT): https://youtube.com/@electronoobs?si=1xI8wCDHFrH2X3Cb
+- GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
+
+
+
 # General Electronics:
 
 Free Magazines/Ebooks (PDF):
@@ -17,6 +27,8 @@ Other Site Links:
 - Deepblue Embedded (PCB Design, Emebedded Systems, Electronics, etc.): https://deepbluembedded.com/
 - Random Nerd Tutorials: https://randomnerdtutorials.com/
 - Arduino Project Hub: https://projecthub.arduino.cc/
+- HackMakeMod (YT): https://youtube.com/@hackmakemod?si=4ryUx8HAqGWATcwi
+- 
 
   
 # Control Theory/Systems:
@@ -30,4 +42,25 @@ Other Site Links:
   - Ball and Beam Project (Arduino IDE): https://github.com/AntonAshraf/Ball-Beam-PID-Control
   - Control Systems Academy: https://controlsystemsacademy.com/
   - Youtube - Brian Douglas: https://www.youtube.com/user/ControlLectures
+  - Youtube - RealPars (How control systems are applied in industrial settings): https://www.youtube.com/@realpars
     
+# PCB Design:
+
+Resources:
+- Phil's lab (YT): https://youtube.com/@philslab?si=zgzGKRZ18qK3_z_Z
+- Electronoobs (YT): https://youtube.com/@electronoobs?si=1xI8wCDHFrH2X3Cb
+- Zachariah Peterson (YT): https://www.youtube.com/@Zachariah-Peterson
+- Altium Academy (YT): https://www.youtube.com/@AltiumAcademy
+- Made by Morten (YT): https://youtube.com/@made.by.morten.laboratories?si=frbskkmTYtrkrsMd
+- Robert Feranec (YT): https://www.youtube.com/@RobertFeranec
+
+Projects:
+- All about Circuits: https://www.allaboutcircuits.com/projects/category/pcb/
+- Circuit Digest PCB Projects: https://circuitdigest.com/diy-pcb-projects
+- PCB Design Examples: https://www.nwengineeringllc.com/resources/pcb-design-examples.php
+
+
+# Robotics:
+
+- Makers Muse (YT): https://youtube.com/@makersmuse?si=T-7tTpXe1vFmNAdD
+- 
