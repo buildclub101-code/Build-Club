@@ -10,6 +10,7 @@ Free Magazines/Ebooks (PDF):
 - Electronics Magazine (Electronicsmaker - More into industry trends than projects): https://electronicsmaker.com/magazine
 - The Art of Electronics, 3rd Edition, 2015: https://kolegite.com/EE_library/books_and_lectures/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/_The%20Art%20of%20Electronics%203rd%20ed%20%5B2015%5D.pdf
 - Open Circuits. The Inner Beauty of Electronics: https://caxapa.ru/lib/files/Eric_Schlaepfer_Windell_H._Oskay_-_Open_Circuits._The_Inner_Beauty_of_Electronic.pdf
+- Rhode & Schwarz free posters, booklets and other materials: https://www.rfcafe.com/miscellany/cool-products/Rohde-Schwarz-Free-Posters-Pocket-Guides.htm
 
 Other Site Links:
 - Embedded Systems Roadmap (Github link to other resources): https://github.com/m3y54m/Embedded-Engineering-Roadmap
@@ -27,6 +28,8 @@ Software/Web Tools:
   
 - Texas Instruments, Design & Simulation Tools: https://www.ti.com/design-development/design-simulation-tools.html
 - Free Tools for Electrical and Electronics Engineers: https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
+- Wokwi Simulator: https://wokwi.com/
+  
 
 Youtube Channels:
 - HackMakeMod (YT): https://youtube.com/@hackmakemod?si=4ryUx8HAqGWATcwi
