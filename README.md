@@ -53,6 +53,7 @@ Mixed Domain Project Designs/Inspirations (Varied Difficulty):
 - Electronoobs (YT): https://youtube.com/@electronoobs?si=1xI8wCDHFrH2X3Cb
 - GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
 - Predictable Designs (YT): https://youtube.com/@predictabledesigns?si=wO3K30c7_Ez05EZK
+- abe's projects (YT): https://youtube.com/@abetoday?si=iBdQZZd3-2bMDVFc
   
 # Control Theory/Systems:
   - Univeristy of Michigan, USA - Control Systems Tutorials with MATLAB/Simulink: https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
