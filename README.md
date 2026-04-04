@@ -86,8 +86,10 @@ Projects:
 Projects:
 - 433MHz Signal Detector: https://www.electronicsforu.com/electronics-projects/433-mhz-rf-signal-strength-detector
 - IR Audio Communication: https://www.electronicsforu.com/electronics-projects/ir-audio-communication
-- 
+- ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
+  
 # Power Electronics:
+- Free Power Electronics Course by MIT, USA: https://youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0&si=IwDYc8z2QXBUu-cb
 
 # Mechanics:
 
