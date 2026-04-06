@@ -58,18 +58,31 @@ Mixed Domain Project Designs/Inspirations (Varied Difficulty):
 - abe's projects (YT): https://youtube.com/@abetoday?si=iBdQZZd3-2bMDVFc
   
 # Control Theory/Systems:
+
+Resources:
+
+  - "Automatic Control Systems" By BC Kou (E-Book): https://banavathvalyaiitmadras.wordpress.com/wp-content/uploads/2015/12/kuo-automaticcontrolsystems.pdf
+  - Understanding the Kalman Filter: https://kalmanfilter.net/
   - Univeristy of Michigan, USA - Control Systems Tutorials with MATLAB/Simulink: https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
   - IIT Kharagpur - Virtual Control Systems Lab (More academic): http://vlabs.iitkgp.ac.in/ctrl/index.html
   - (Free Online Course/Lectures) University of Sheffield, United Kingdom - Modelling, Dynamics and Control: https://controleducation.sites.sheffield.ac.uk/
   - Control Theory Subreddit - https://www.reddit.com/r/ControlTheory/
   - Control Theory Subrredit Wiki - https://www.reddit.com/r/ControlTheory/wiki/index/
+  - Control Systems Academy: https://controlsystemsacademy.com/
+  - Brian Douglas (YT): https://www.youtube.com/user/ControlLectures
+  - RealPars (YT - How control systems are applied in industrial settings): https://www.youtube.com/@realpars
+  - IIS, Bengaluru - "NPTEL: Drone Systems and Control" (YT): https://youtube.com/playlist?list=PLgMDNELGJ1CYU7vfun-Q7HXsldD-RsocG&si=eQY0RLQZcpmgiIvm
+  - MATLAB Quadcopter Design Playlist (YT): https://youtube.com/playlist?list=PLPNM6NzYyzYqMYNc5e4_xip-yEu1jiVrr&si=4viBmQfpIyaHHaF-
+  - Pratik Phadte -  How does PID controller work? | Simple Explaination on Quadcopter  (YT): https://youtu.be/dMRDzicSvXk?si=fOwuq2VORMKdmIlE
+
+Projects:
+
   - Self Balancing Robot Project - https://projecthub.arduino.cc/mircemk/arduino-two-weel-self-balancing-robot-edef61
   - Ball and Beam Project (Using LabView and Arduino): https://www.instructables.com/Ball-and-Beam-WLabVIEW-Arduino/
   - Ball and Beam Project (Arduino IDE): https://github.com/AntonAshraf/Ball-Beam-PID-Control
-  - Control Systems Academy: https://controlsystemsacademy.com/
-  - Youtube - Brian Douglas: https://www.youtube.com/user/ControlLectures
-  - Youtube - RealPars (How control systems are applied in industrial settings): https://www.youtube.com/@realpars
-  - 
+  - Inverted Pendulum on a moving cart: https://www.instructables.com/Inverted-Pendulum-Control-Theory-and-Dynamics/
+  - Arduino SimpleFOC for Motor Control Playlist: https://youtube.com/playlist?list=PLCmLcotxdi_sZY8BSARUYZR3oDBBgN6-p&si=ScfjbcuxXh4r6TYx
+
     
 # PCB Design:
 
@@ -124,6 +137,9 @@ Projects:
 - Inst Tools project ideas (Use AI to generate your parts list, instructions): https://instrumentationtools.com/electronics-and-communication-projects/
   
 # Power Electronics:
+
+Resources:
+
 - Free Power Electronics Course by MIT, USA: https://youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0&si=IwDYc8z2QXBUu-cb
 - Different Github Repo: https://github.com/GaetanoLongo/PowerElectronics
 - GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
@@ -132,6 +148,7 @@ Projects:
 - Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
 - ElectrArc240 (YT): https://youtube.com/@electrarc240?si=x0-x5QqyJ1CWvsqr
 
+Projects:
 
 
 # Mechanics:
