@@ -130,6 +130,7 @@ Projects:
 - ChargerLab (YT - Electronic product testing/teardowns): https://youtube.com/@chargerlab?si=GPfi23bR91mwca9M
 - LeftyMaker (YT): https://youtube.com/@leftymaker?si=LBa8JcN2riUS6zsR
 - Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
+- ElectrArc240 (YT): https://youtube.com/@electrarc240?si=x0-x5QqyJ1CWvsqr
 
 
 
