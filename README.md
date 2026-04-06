@@ -69,6 +69,7 @@ Mixed Domain Project Designs/Inspirations (Varied Difficulty):
   - Control Systems Academy: https://controlsystemsacademy.com/
   - Youtube - Brian Douglas: https://www.youtube.com/user/ControlLectures
   - Youtube - RealPars (How control systems are applied in industrial settings): https://www.youtube.com/@realpars
+  - 
     
 # PCB Design:
 
@@ -95,6 +96,7 @@ Projects:
 - Robotics Subreddit: https://www.reddit.com/r/robotics/
 - Robotics Subreddit Wiki: https://www.reddit.com/r/robotics/wiki/index/
 - Tech with Anant (AI and Robotics - YT): https://www.youtube.com/@techwithanant-yt/videos
+- Tazer (YT): https://youtube.com/@tazerengineering?si=2ik630tLgCAZazNT
 
 The more "fun" side of robotics:
 
@@ -112,6 +114,7 @@ Resources:
 - The Signal Path (YT): https://youtube.com/@thesignalpath?si=_2N0BI26KZdi-kTr
 - Baltic Lab (YT): https://youtube.com/@balticlab?si=uy3VGqpvbPh2q_6K
 - w2aew (YT): https://youtube.com/@w2aew?si=j5qYIVBp9xIVbxoN
+- "John D Kraus: Antennas for all applications" (E-book, May require prior knowledge): https://www.researchgate.net/profile/Sajeed_Mulla/post/If_the_E-Field_pattern_of_an_antenna_varies_as_a_bcostheta_where_a_b_are_some_integers_Then_how_to_calculate_the_HPBW/attachment/59d6465c79197b80779a1611/AS%3A457537502879744%401486096849945/download/John.+D.+Kraus%2C+Ronald+J.+Marhefka-Antennas-for-All-Applications.pdf
 
 Projects:
 - 433MHz Signal Detector: https://www.electronicsforu.com/electronics-projects/433-mhz-rf-signal-strength-detector
@@ -122,10 +125,11 @@ Projects:
   
 # Power Electronics:
 - Free Power Electronics Course by MIT, USA: https://youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0&si=IwDYc8z2QXBUu-cb
-- Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
 - Different Github Repo: https://github.com/GaetanoLongo/PowerElectronics
 - GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
 - ChargerLab (YT - Electronic product testing/teardowns): https://youtube.com/@chargerlab?si=GPfi23bR91mwca9M
+- LeftyMaker (YT): https://youtube.com/@leftymaker?si=LBa8JcN2riUS6zsR
+- Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
 
 
 
