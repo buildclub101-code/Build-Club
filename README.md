@@ -1,7 +1,7 @@
 # Build-Club
 Hello everyone! This is the new Github Repository which will have links to various projects, manuals and online references/resources. We hope you enjoy your journey on fostering knowledge, creativity, collaboration and resourcefulness.  
 
-This Repo is currently an early work in progress. But for now we'll just check if everything in this readme file works by adding these links to various resources in no particular order. In case of feedback, please send a pull request so we can keep making this site an amazing knowledge hub for all!
+This Repo is currently an early work in progress. But for now we'll just check if everything in this readme file works by adding these links to various resources in no particular order. In case of feedback, please send a pull request or raise an issue so we can keep making this site an amazing knowledge hub for all!
 
 # General Electronics (and Resources!):
 
