@@ -94,6 +94,9 @@ Projects:
 - Robotics Subreddit Wiki: https://www.reddit.com/r/robotics/wiki/index/
 - Tech with Anant (AI and Robotics - YT): https://www.youtube.com/@techwithanant-yt/videos
 
+The more "fun" side of robotics:
+
+
 # IoT - Internet of Things:
 
 - Garage Tinkering (YT for Automotive IoT): https://youtube.com/@garagetinkering?si=wdGVYQdUs5sFJHc7
@@ -112,10 +115,20 @@ Projects:
   
 # Power Electronics:
 - Free Power Electronics Course by MIT, USA: https://youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0&si=IwDYc8z2QXBUu-cb
+- Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
+- 
+
+
+
+
+
 
 # Mechanics:
 
 # Software Builds:
+
+- Harvard CS50x Online Course (YT): https://youtube.com/@cs50?si=D5ZlcG-sWR-Qwy9O
+- freeCodeCamp (YT): https://youtube.com/@freecodecamp?si=xnd5QKzjuZhbqcjN
 
 # CAD - Computer Aided Design:
 
