@@ -19,6 +19,8 @@ Other Site Links:
 - Random Nerd Tutorials: https://randomnerdtutorials.com/
 - Arduino Project Hub: https://projecthub.arduino.cc/
 - ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
+- Hackster.io: https://www.hackster.io/
+- Hackaday: https://hackaday.com/
 
 Software/Web Tools:
 
@@ -96,6 +98,8 @@ Projects:
 
 The more "fun" side of robotics:
 
+- BattleBots (YT): https://youtube.com/@battlebots?si=SjOGX4y3OibzYcW1
+- NHRL (YT): https://youtube.com/@nhrl?si=y_8Sw5W97-Q-eYNB
 
 # IoT - Internet of Things:
 
@@ -107,19 +111,20 @@ The more "fun" side of robotics:
 Resources:
 - The Signal Path (YT): https://youtube.com/@thesignalpath?si=_2N0BI26KZdi-kTr
 - Baltic Lab (YT): https://youtube.com/@balticlab?si=uy3VGqpvbPh2q_6K
+- w2aew (YT): https://youtube.com/@w2aew?si=j5qYIVBp9xIVbxoN
 
 Projects:
 - 433MHz Signal Detector: https://www.electronicsforu.com/electronics-projects/433-mhz-rf-signal-strength-detector
 - IR Audio Communication: https://www.electronicsforu.com/electronics-projects/ir-audio-communication
+- Smart Billboard: https://www.electronicsforu.com/electronics-projects/sms-based-smart-notice-board
 - ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
+- Inst Tools project ideas (Use AI to generate your parts list, instructions): https://instrumentationtools.com/electronics-and-communication-projects/
   
 # Power Electronics:
 - Free Power Electronics Course by MIT, USA: https://youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0&si=IwDYc8z2QXBUu-cb
 - Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
-- 
-
-
-
+- Different Github Repo: https://github.com/GaetanoLongo/PowerElectronics
+- GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
 
 
 
