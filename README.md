@@ -125,6 +125,7 @@ Projects:
 - Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
 - Different Github Repo: https://github.com/GaetanoLongo/PowerElectronics
 - GreatScott (YT): https://youtube.com/@greatscottlab?si=ioWeeSpQfIdnUhrX
+- ChargerLab (YT - Electronic product testing/teardowns): https://youtube.com/@chargerlab?si=GPfi23bR91mwca9M
 
 
 
