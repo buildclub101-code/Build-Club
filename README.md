@@ -133,6 +133,7 @@ Projects:
 - Robotics Subreddit Wiki: https://www.reddit.com/r/robotics/wiki/index/
 - Tech with Anant (AI and Robotics - YT): https://www.youtube.com/@techwithanant-yt/videos
 - Tazer (YT): https://youtube.com/@tazerengineering?si=2ik630tLgCAZazNT
+- Aaed Musa (YT): https://youtube.com/@aaedmusa?si=4B9yG0QwguuMJwp6
 - FIRST Robotics Competition Documentation: https://docs.wpilib.org/en/stable/index.html
 
 It's a robotics competition for Grades K-12. The documentation link here will link to other helpful resources. For more info, please check the links below.
@@ -193,6 +194,9 @@ Resources:
 
 - Brick Experiment Channel (YT): https://youtube.com/@brickexperimentchannel?si=vG4hvMMUmaq4ProF
 - Brick Technology (YT): https://youtube.com/@bricktechnology?si=J51yIrcbXVfkt5c0
+- Aaed Musa (YT): https://youtube.com/@aaedmusa?si=4B9yG0QwguuMJwp6
+- Webpage of 507 Mechanical Movements: https://507movements.com/
+- National Propulsion Lab, UK - Water Rocket Design: https://www.npl.co.uk/getattachment/1c1d9302-7838-46b2-86c9-d6a712aab120/wr_booklet_print.pdf
 
 # Software Builds:
 
