@@ -198,8 +198,7 @@ Resources:
 - Aaed Musa (YT): https://youtube.com/@aaedmusa?si=4B9yG0QwguuMJwp6
 - Webpage of 507 Mechanical Movements: https://507movements.com/
 - National Propulsion Lab, UK - Water Rocket Design: https://www.npl.co.uk/getattachment/1c1d9302-7838-46b2-86c9-d6a712aab120/wr_booklet_print.pdf
-
-- Driver61 (YT Documentaries of Formula 1 engineering. May belong to a Misc. Category): https://youtube.com/@driver61?si=_3FA-0wyTPByMne1
+- Driver61 (YT Documentaries of Formula 1 engineering): https://youtube.com/@driver61?si=_3FA-0wyTPByMne1
 
 # Software Builds:
 
