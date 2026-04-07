@@ -31,6 +31,7 @@ Software/Web Tools:
 - Texas Instruments, Design & Simulation Tools: https://www.ti.com/design-development/design-simulation-tools.html
 - Free Tools for Electrical and Electronics Engineers: https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
 - Wokwi Simulator: https://wokwi.com/
+- How to Automate Electrical Test Equipment using Python/SCPI: https://www.youtube.com/watch?v=DUJpL9pMy8Y
   
 
 Youtube Channels:
@@ -38,6 +39,8 @@ Youtube Channels:
 - Adafruit (YT): https://youtube.com/@adafruit?si=HadPToTAkt0oF1tT
 - DigiKey (YT): https://www.youtube.com/@digikey
 - EEVBlog (YT): https://youtube.com/@eevblog?si=6iwDbXPxjNOyVusW
+- Core Electronics (YT): https://www.youtube.com/@Core-Electronics
+- Core Electronics Playlist - Zero to Maker: https://youtube.com/playlist?list=PLPK2l9Knytg58_edrNxkIPDRQhKSMzKi9&si=SgO5HzLo2XNTZhMg
 
 In Case Soldering Lessons are needed:
 - Soldering subreddit: https://www.reddit.com/r/soldering/
@@ -135,6 +138,7 @@ Projects:
 - Smart Billboard: https://www.electronicsforu.com/electronics-projects/sms-based-smart-notice-board
 - ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
 - Inst Tools project ideas (Use AI to generate your parts list, instructions): https://instrumentationtools.com/electronics-and-communication-projects/
+- Core Electronics (YT Playlist) - Meshtastic for Makers: https://youtube.com/playlist?list=PLPK2l9Knytg6jzOfcqk5y0iBH48ZATVVD&si=VNnwc93x0lcqqqaL
   
 # Power Electronics:
 
@@ -150,6 +154,8 @@ Resources:
 
 Projects:
 
+- How2electronics.com (50+ DIY Projects): https://how2electronics.com/electronics-circuits/power-electronics-projects/
+- Python Power Electronics (YT + Embedded Software/Firmware Build): https://www.youtube.com/@PythonPowerElectronics/videos
 
 # Mechanics:
 
