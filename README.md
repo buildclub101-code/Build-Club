@@ -14,8 +14,8 @@ Free Magazines/Ebooks (PDF):
 
 Other Site Links:
 - Embedded Systems Roadmap (Github link to other resources): https://github.com/m3y54m/Embedded-Engineering-Roadmap
-  This roadmap contains an exhaustive list of sub topics people can explore related to embedded systems
-- Deepblue Embedded (PCB Design, Emebedded Systems, Electronics, etc.): https://deepbluembedded.com/
+  This roadmap contains an exhaustive list of subtopics that people can explore related to embedded systems
+- Deepblue Embedded (PCB Design, Embedded Systems, Electronics, etc.): https://deepbluembedded.com/
 - Random Nerd Tutorials: https://randomnerdtutorials.com/
 - Arduino Project Hub: https://projecthub.arduino.cc/
 - ECE Projects Collection (Electronicsforu.com): https://www.electronicsforu.com/electronics-projects/hardware-diy/ece-projects
@@ -25,7 +25,7 @@ Other Site Links:
 Software/Web Tools:
 
 - Digikey web tools: https://www.digikey.in/en
-  Access these tools by visiting the website, hover over the "resources tab", and choose which web tools do you need.
+  Access these tools by visiting the website, hover over the "resources tab", and choose which web tools do you need to use.
   There are multiple options from different calculators, EDA tools, PCB Building and Cross referencing components.
   
 - Texas Instruments, Design & Simulation Tools: https://www.ti.com/design-development/design-simulation-tools.html
@@ -128,7 +128,9 @@ The more "fun" side of robotics:
 
 # IoT - Internet of Things:
 
+- Electronoobs (YT) - Control Anything With IOT Easy Internet of Things with ESP32 and Arduino: https://youtu.be/PQT-bAyLtBQ?si=7buSGcdM0ZFK9Og1
 - Garage Tinkering (YT for Automotive IoT): https://youtube.com/@garagetinkering?si=wdGVYQdUs5sFJHc7
+- Tech Trends Shameer - YT Playlist - Arduino Cloud and IoT: https://youtube.com/playlist?list=PL_67py5gIqwP0UoBPNwwNvjX9aUDeuQRI&si=JX5KkncWjiozRME2
 - 100 days of 100 IoT Projects: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 
 # Communications:
