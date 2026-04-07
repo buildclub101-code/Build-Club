@@ -203,6 +203,7 @@ Resources:
 - Harvard CS50x Online Course (YT): https://youtube.com/@cs50?si=D5ZlcG-sWR-Qwy9O
 - freeCodeCamp (YT): https://youtube.com/@freecodecamp?si=xnd5QKzjuZhbqcjN
 - Bro Code (YT Tutorials): https://youtube.com/@brocodez?si=KKB0zGj02RP1Yarz
+- FreeCodeCamp - Learn Drone Programming with Python: https://youtu.be/k-yDYgc8AmU?si=_Op59grcl96rYiK9
 
 # CAD - Computer Aided Design:
 
