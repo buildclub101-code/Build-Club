@@ -41,6 +41,7 @@ Youtube Channels:
 - EEVBlog (YT): https://youtube.com/@eevblog?si=6iwDbXPxjNOyVusW
 - Core Electronics (YT): https://www.youtube.com/@Core-Electronics
 - Core Electronics Playlist - Zero to Maker: https://youtube.com/playlist?list=PLPK2l9Knytg58_edrNxkIPDRQhKSMzKi9&si=SgO5HzLo2XNTZhMg
+- MATLAB: https://youtube.com/@matlab?si=bxnVXQK1_BO9StgV
 
 In Case Soldering Lessons are needed:
 - Soldering subreddit: https://www.reddit.com/r/soldering/
@@ -74,6 +75,7 @@ Resources:
   - Control Systems Academy: https://controlsystemsacademy.com/
   - Brian Douglas (YT): https://www.youtube.com/user/ControlLectures
   - RealPars (YT - How control systems are applied in industrial settings): https://www.youtube.com/@realpars
+  - Control Theory Bootcamp Playlist (YT) by Steve Brunton: https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
   - IIS, Bengaluru - "NPTEL: Drone Systems and Control" (YT): https://youtube.com/playlist?list=PLgMDNELGJ1CYU7vfun-Q7HXsldD-RsocG&si=eQY0RLQZcpmgiIvm
   - MATLAB Quadcopter Design Playlist (YT): https://youtube.com/playlist?list=PLPNM6NzYyzYqMYNc5e4_xip-yEu1jiVrr&si=4viBmQfpIyaHHaF-
   - Pratik Phadte -  How does PID controller work? | Simple Explaination on Quadcopter  (YT): https://youtu.be/dMRDzicSvXk?si=fOwuq2VORMKdmIlE
@@ -83,7 +85,8 @@ Projects:
   - Self Balancing Robot Project - https://projecthub.arduino.cc/mircemk/arduino-two-weel-self-balancing-robot-edef61
   - Ball and Beam Project (Using LabView and Arduino): https://www.instructables.com/Ball-and-Beam-WLabVIEW-Arduino/
   - Ball and Beam Project (Arduino IDE): https://github.com/AntonAshraf/Ball-Beam-PID-Control
-  - Inverted Pendulum on a moving cart: https://www.instructables.com/Inverted-Pendulum-Control-Theory-and-Dynamics/
+  - Inverted Pendulum on a moving cart (Please note, some things may be broken and dated) : https://www.instructables.com/Inverted-Pendulum-Control-Theory-and-Dynamics/
+  - Inverted Pendulum on a moving cart, Hackster.io article: https://www.hackster.io/zjor/inverted-pendulum-on-a-cart-199d6f
   - Arduino SimpleFOC for Motor Control Playlist: https://youtube.com/playlist?list=PLCmLcotxdi_sZY8BSARUYZR3oDBBgN6-p&si=ScfjbcuxXh4r6TYx
 
     
@@ -113,6 +116,10 @@ Projects:
 - Robotics Subreddit Wiki: https://www.reddit.com/r/robotics/wiki/index/
 - Tech with Anant (AI and Robotics - YT): https://www.youtube.com/@techwithanant-yt/videos
 - Tazer (YT): https://youtube.com/@tazerengineering?si=2ik630tLgCAZazNT
+- FIRST Robotics Competition Documentation: https://docs.wpilib.org/en/stable/index.html
+  It's a robotics competition for Grades K-12. The documentation link here will link to other helpful resources. For more info, please check the links below.
+  - USA Website: https://www.firstinspires.org/
+  - India Website: https://ftcindia.org.in/
 
 The more "fun" side of robotics:
 
@@ -151,6 +158,7 @@ Resources:
 - LeftyMaker (YT): https://youtube.com/@leftymaker?si=LBa8JcN2riUS6zsR
 - Sam Ben-Yaakov (YT): https://youtube.com/@sambenyaakov?si=-NQ4VkhV5ZhROd23
 - ElectrArc240 (YT): https://youtube.com/@electrarc240?si=x0-x5QqyJ1CWvsqr
+- mikeselectricstuff (YT): https://youtube.com/@mikeselectricstuff?si=8UvX5-cJzfVP--4z
 
 Projects:
 
@@ -163,6 +171,7 @@ Projects:
 
 - Harvard CS50x Online Course (YT): https://youtube.com/@cs50?si=D5ZlcG-sWR-Qwy9O
 - freeCodeCamp (YT): https://youtube.com/@freecodecamp?si=xnd5QKzjuZhbqcjN
+- Bro Code (YT Tutorials): https://youtube.com/@brocodez?si=KKB0zGj02RP1Yarz
 
 # CAD - Computer Aided Design:
 
