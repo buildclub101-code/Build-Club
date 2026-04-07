@@ -212,7 +212,12 @@ Resources:
 - SourceCAD (YT): https://youtube.com/@sourcecad?si=3y2XVDSan-JMaMYr
 
 
-# Diagnostics/Repair/Teardown (Bonus Category - Some links have been repasted from the previous categories):
+# Diagnostics/Repair/Teardown:
+
+Bonus Category - Some links have been repasted from the previous categories.
+
+- iFixit (YT - Teardowns, Repairs and Guides for various products): https://youtube.com/@ifixityourself?si=D4QWUnxkaaqPqunW
+- TronicsFix (YT - Repairing devices and possibly getting some ROI - Return of Investment in the process): https://youtube.com/@tronicsfix?si=8sFHwcJqmQNP5So4
 
 Ever wondered what that laptop, headphones or even your game consoles look like from the inside?
 
@@ -224,5 +229,4 @@ If you want to understand the "individual" component level, refer to the above e
 
 For those interested in seeing how Power Banks, Inverter/Battery Systems, Cables, Phone/Laptop Chargers and more get torn down. You also get to see how different devices get tested at different power levels, either wired or inductive charging methods.
 
-- iFixit (YT - Teardowns, Repairs and Guides for various products): https://youtube.com/@ifixityourself?si=D4QWUnxkaaqPqunW
-- TronicsFix (YT - Repairing devices and possibly getting some ROI - Return of Investment in the process): https://youtube.com/@tronicsfix?si=8sFHwcJqmQNP5So4
+
