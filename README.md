@@ -153,6 +153,7 @@ The more "fun" side of robotics:
 - Tech Trends Shameer - YT Playlist - Arduino Cloud and IoT: https://youtube.com/playlist?list=PL_67py5gIqwP0UoBPNwwNvjX9aUDeuQRI&si=JX5KkncWjiozRME2
 - 100 days of 100 IoT Projects: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 - Electronicsforu.com - 32 Top IoT Projects: https://www.electronicsforu.com/iot-projects-ideas
+- Blynk IoT Low-Code Platform: https://www.blynk.io/
 
 # Communications:
 
@@ -198,6 +199,8 @@ Resources:
 - Webpage of 507 Mechanical Movements: https://507movements.com/
 - National Propulsion Lab, UK - Water Rocket Design: https://www.npl.co.uk/getattachment/1c1d9302-7838-46b2-86c9-d6a712aab120/wr_booklet_print.pdf
 
+- Driver61 (YT Documentaries of Formula 1 engineering. May belong to a Misc. Category): https://youtube.com/@driver61?si=_3FA-0wyTPByMne1
+
 # Software Builds:
 
 - Harvard CS50x Online Course (YT): https://youtube.com/@cs50?si=D5ZlcG-sWR-Qwy9O
@@ -208,3 +211,19 @@ Resources:
 # CAD - Computer Aided Design:
 
 - SourceCAD (YT): https://youtube.com/@sourcecad?si=3y2XVDSan-JMaMYr
+
+
+# Diagnostics/Repair/Teardown (Bonus Category - Some links have been repasted from the previous categories):
+
+Ever wondered what that laptop, headphones or even your game consoles look like from the inside?
+
+- Open Circuits. The Inner Beauty of Electronics: https://caxapa.ru/lib/files/Eric_Schlaepfer_Windell_H._Oskay_-_Open_Circuits._The_Inner_Beauty_of_Electronic.pdf
+
+If you want to understand the "individual" component level, refer to the above e-book once again.
+
+- ChargerLab (YT - Power Electronics Product Testing/Teardowns): https://youtube.com/@chargerlab?si=GPfi23bR91mwca9M
+
+For those interested in seeing how Power Banks, Inverter/Battery Systems, Cables, Phone/Laptop Chargers and more get torn down. You also get to see how different devices get tested at different power levels, either wired or inductive charging methods.
+
+- iFixit (YT - Teardowns, Repairs and Guides for various products): https://youtube.com/@ifixityourself?si=D4QWUnxkaaqPqunW
+- TronicsFix (YT - Repairing devices and possibly getting some ROI - Return of Investment in the process): https://youtube.com/@tronicsfix?si=8sFHwcJqmQNP5So4
