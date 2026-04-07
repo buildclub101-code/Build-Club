@@ -210,6 +210,7 @@ Resources:
 # CAD - Computer Aided Design:
 
 - SourceCAD (YT): https://youtube.com/@sourcecad?si=3y2XVDSan-JMaMYr
+- YT Playlist - Beginner Ele Engg. CAD with AutoCAD: https://youtube.com/playlist?list=PLrOFa8sDv6jeqPGoHVwPQVoB3BWMtvcRJ&si=fgblf2pNC7qJuyuN
 
 
 # Diagnostics/Repair/Teardown:
