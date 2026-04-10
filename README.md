@@ -73,6 +73,7 @@ Mixed Domain Project Designs/Inspirations (Varied Difficulty/Just for Fun):
 - Predictable Designs (YT): https://youtube.com/@predictabledesigns?si=wO3K30c7_Ez05EZK
 - abe's projects (YT): https://youtube.com/@abetoday?si=iBdQZZd3-2bMDVFc
 - ProjectAir (YT): https://youtube.com/@project-air?si=DaMPi_6_XBQhQppL
+- rctestflight (YT): https://youtube.com/@rctestflight?si=PwvNYXxz7Vamsics
 - Hacksmith Industries (YT): https://youtube.com/@hacksmith?si=1ZWklqcUuXT_yMwN
   
 # Control Theory/Systems:
@@ -213,7 +214,7 @@ Resources:
 - YT Playlist - Beginner Ele Engg. CAD with AutoCAD: https://youtube.com/playlist?list=PLrOFa8sDv6jeqPGoHVwPQVoB3BWMtvcRJ&si=fgblf2pNC7qJuyuN
 
 
-# Diagnostics/Repair/Teardown:
+# Diagnostics/Repair/Teardown/Upgrades:
 
 Bonus Category - Some links have been repasted from the previous categories.
 
@@ -229,5 +230,19 @@ If you want to understand the "individual" component level, refer to the above e
 - ChargerLab (YT - Power Electronics Product Testing/Teardowns): https://youtube.com/@chargerlab?si=GPfi23bR91mwca9M
 
 For those interested in seeing how Power Banks, Inverter/Battery Systems, Cables, Phone/Laptop Chargers and more get torn down. You also get to see how different devices get tested at different power levels, either wired or inductive charging methods.
+
+- ReversingForFun (YT): https://youtube.com/@reversingforfun?si=ZBx7Uwaeh69zCd7P
+
+Live teardown of various electrical and electronics equipment 
+
+- iBoff RCC (YT): https://www.youtube.com/@iBoffRCC
+
+Tearing down and upgrading Macs logic board with more storage.
+
+- dosdude1 (YT): https://youtube.com/@dosdude1?si=1nRtYsN4376u53-T
+
+More hardware hacking and upgrading
+
+
 
 
